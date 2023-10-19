@@ -1,0 +1,20 @@
+{
+  "name": "ejs-api-template",
+  "version": "1.0.0",
+  "description": "Geliştirilmiş EJS tabanlı api alt yapısı",
+  "main": "approval.js",
+  "scripts": {
+    "test": "node approval.js",
+    "start": "node approval.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Approval-Denial/EJS-API-Template.git"
+  },
+  "author": "Approval",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Approval-Denial/EJS-API-Template/issues"
+  },
+  "homepage": "https://github.com/Approval-Denial/EJS-API-Template#readme"
+}
