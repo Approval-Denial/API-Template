@@ -1,5 +1,5 @@
-# ejs-api-infrastructure
-> EJS tabanlı API altyapısı, ilerleyen zamanda bir üst sürüm yüklenicek.
+# api-infrastructure
+> API altyapısı, ilerleyen zamanda bir üst sürüm yüklenicek.
 
 ## Status: Updated ✅
 > Güncel Sürüm: 1.1.0
